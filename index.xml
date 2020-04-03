@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rice Data Science Club</title>
+    <link>https://ricedatasci.github.io/</link>
+    <description>Recent content on Rice Data Science Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ricedatasci.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President</title>
+      <link>https://ricedatasci.github.io/about/president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/president/</guid>
+      <description>Junior at Wiess studying Statistics. In my free time I enjoy playing board games and ping pong. This summer I lived and worked in Norway!</description>
+    </item>
+    
+    <item>
+      <title>External Vice President</title>
+      <link>https://ricedatasci.github.io/about/external-vice-president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/external-vice-president/</guid>
+      <description>Junior at Wiess studying Computer Science with a minor in Math.</description>
+    </item>
+    
+    <item>
+      <title>Internal Vice President</title>
+      <link>https://ricedatasci.github.io/about/internal-vice-president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/internal-vice-president/</guid>
+      <description>Senior at Hanszen studying Computer Science. In my free time I enjoy playing ultimate frisbee, browsing hacker news, and listening to all kinds of music.</description>
+    </item>
+    
+    <item>
+      <title>Treasurer</title>
+      <link>https://ricedatasci.github.io/about/treasurer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/treasurer/</guid>
+      <description>Sophomore at Hanszen studying CAAM and Cognitive Science. I&amp;rsquo;m a huge foodie - I love eating &amp;amp; making good food, exploring new places/traveling (Scotland this summer!), and reading books. International student from Taiwan!</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-emily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-emily/</guid>
+      <description>A junior at Will Rice studying Mathematical Economic Analysis, Statistics, and minors in Computational Finance and Evolutionary Biology.
+I have been playing ultimate for 6 years, most recently with our womxn’s ultimate team, Torque. In my free time, I enjoy knitting, watching cat videos, and playing mahjong with my fellow Will Ricers.</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-nick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-nick/</guid>
+      <description>Sophomore at McMurtry College studying Computer Science.</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-parth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-parth/</guid>
+      <description>Sophomore at McMurtry College studying Computer Science and Statistics.
+I enjoy cooking, watching The Real Bros of Simi Valley, rapping, and making chill music. While I love travelling internationally, I sometimes prefer to cruise around Washington in my old car with friends.</description>
+    </item>
+    
+    <item>
+      <title>Intro to Clustering &#43; Social Mixer</title>
+      <link>https://ricedatasci.github.io/events/clustering-intro-social-mixer/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/clustering-intro-social-mixer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice&#39;s Inaugural Datathon</title>
+      <link>https://ricedatasci.github.io/events/datathon-sp19/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/datathon-sp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack Night: Learning over Break</title>
+      <link>https://ricedatasci.github.io/events/hacknight-20181203/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/hacknight-20181203/</guid>
+      <description>This is a collected set of resources you might want to look at over winter break: Data Science Learning Resources.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Sentiment Analysis</title>
+      <link>https://ricedatasci.github.io/events/sentiment-analysis-f18/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/sentiment-analysis-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack Night: ggplot2 and perceptron</title>
+      <link>https://ricedatasci.github.io/events/hacknight-20181030/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/hacknight-20181030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis in R</title>
+      <link>https://ricedatasci.github.io/events/tidyverse-eda-f18/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/tidyverse-eda-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDS General Meeting F18</title>
+      <link>https://ricedatasci.github.io/events/rds-general-meeting-f18/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/rds-general-meeting-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with LIME</title>
+      <link>https://ricedatasci.github.io/events/interpretable-machine-learning/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/interpretable-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Visualization with ggplot2</title>
+      <link>https://ricedatasci.github.io/events/dataviz-ggplot2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/dataviz-ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science at a Research Hospital</title>
+      <link>https://ricedatasci.github.io/events/ds-at-research-hospital/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/ds-at-research-hospital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your first R Package</title>
+      <link>https://ricedatasci.github.io/events/your-first-r-package/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/your-first-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://ricedatasci.github.io/events/cloud-computing/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Classification Models</title>
+      <link>https://ricedatasci.github.io/events/basic-classification-models/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/basic-classification-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Data Science Preston Smith</title>
+      <link>https://ricedatasci.github.io/events/industry-data-science-preston-smith/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/industry-data-science-preston-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing and Visualizing Data</title>
+      <link>https://ricedatasci.github.io/events/managing-and-visualizing-data/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/managing-and-visualizing-data/</guid>
+      <description>Testing!</description>
+    </item>
+    
+    <item>
+      <title>Time-Series &#43; Finance with Michael Weylandt</title>
+      <link>https://ricedatasci.github.io/events/time-series-finance-michael-weylandt/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/time-series-finance-michael-weylandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ricedatasci.github.io/calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/calendar/</guid>
+      <description> RDS Calendar  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ricedatasci.github.io/chrp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/chrp/</guid>
+      <description>CHRP: COVID-19 Houston Response Projects Summary COVID-19 Houston Response Projects (CHRP) is a data science competition that the Rice DataSci Club and the D2K Lab are hosting to encourage all Rice students, grad and undergrad, to get involved in the response to the COVID-19 pandemic. Students are encouraged to use their data science and computing skills to help solve a number of pressing local challenges. The competition will consist of weekly submissions with ongoing, multiple cash prizes and the opportunity to present at the D2K Virtual Showcase to compete for larger prizes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ricedatasci.github.io/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/join/</guid>
+      <description>Loading… </description>
+    </item>
+    
+  </channel>
+</rss>

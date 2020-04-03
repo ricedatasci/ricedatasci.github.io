@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/president/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/external-vice-president/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/internal-vice-president/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/treasurer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/datathon-emily/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/datathon-nick/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/datathon-parth/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/clustering-intro-social-mixer/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/datathon-sp19/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/hacknight-20181203/</loc>
+    <lastmod>2018-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/sentiment-analysis-f18/</loc>
+    <lastmod>2018-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/hacknight-20181030/</loc>
+    <lastmod>2018-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/tidyverse-eda-f18/</loc>
+    <lastmod>2018-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/rds-general-meeting-f18/</loc>
+    <lastmod>2018-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/interpretable-machine-learning/</loc>
+    <lastmod>2018-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/dataviz-ggplot2/</loc>
+    <lastmod>2018-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/ds-at-research-hospital/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/your-first-r-package/</loc>
+    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/cloud-computing/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/basic-classification-models/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/industry-data-science-preston-smith/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/managing-and-visualizing-data/</loc>
+    <lastmod>2017-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/time-series-finance-michael-weylandt/</loc>
+    <lastmod>2017-09-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/minutes/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/chrp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/join/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/events/</loc>
+    <lastmod>2019-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ricedatasci.github.io/about/</loc>
+  </url>
+  
+</urlset>

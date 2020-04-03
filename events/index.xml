@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Rice Data Science Club</title>
+    <link>https://ricedatasci.github.io/events/</link>
+    <description>Recent content in Events on Rice Data Science Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ricedatasci.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro to Clustering &#43; Social Mixer</title>
+      <link>https://ricedatasci.github.io/events/clustering-intro-social-mixer/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/clustering-intro-social-mixer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice&#39;s Inaugural Datathon</title>
+      <link>https://ricedatasci.github.io/events/datathon-sp19/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/datathon-sp19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack Night: Learning over Break</title>
+      <link>https://ricedatasci.github.io/events/hacknight-20181203/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/hacknight-20181203/</guid>
+      <description>This is a collected set of resources you might want to look at over winter break: Data Science Learning Resources.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Sentiment Analysis</title>
+      <link>https://ricedatasci.github.io/events/sentiment-analysis-f18/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/sentiment-analysis-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hack Night: ggplot2 and perceptron</title>
+      <link>https://ricedatasci.github.io/events/hacknight-20181030/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/hacknight-20181030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis in R</title>
+      <link>https://ricedatasci.github.io/events/tidyverse-eda-f18/</link>
+      <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/tidyverse-eda-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDS General Meeting F18</title>
+      <link>https://ricedatasci.github.io/events/rds-general-meeting-f18/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/rds-general-meeting-f18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable Machine Learning with LIME</title>
+      <link>https://ricedatasci.github.io/events/interpretable-machine-learning/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/interpretable-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to Data Visualization with ggplot2</title>
+      <link>https://ricedatasci.github.io/events/dataviz-ggplot2/</link>
+      <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/dataviz-ggplot2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science at a Research Hospital</title>
+      <link>https://ricedatasci.github.io/events/ds-at-research-hospital/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/ds-at-research-hospital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Your first R Package</title>
+      <link>https://ricedatasci.github.io/events/your-first-r-package/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/your-first-r-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://ricedatasci.github.io/events/cloud-computing/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Classification Models</title>
+      <link>https://ricedatasci.github.io/events/basic-classification-models/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/basic-classification-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Data Science Preston Smith</title>
+      <link>https://ricedatasci.github.io/events/industry-data-science-preston-smith/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/industry-data-science-preston-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Managing and Visualizing Data</title>
+      <link>https://ricedatasci.github.io/events/managing-and-visualizing-data/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/managing-and-visualizing-data/</guid>
+      <description>Testing!</description>
+    </item>
+    
+    <item>
+      <title>Time-Series &#43; Finance with Michael Weylandt</title>
+      <link>https://ricedatasci.github.io/events/time-series-finance-michael-weylandt/</link>
+      <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/events/time-series-finance-michael-weylandt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

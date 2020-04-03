@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about rice datasci on Rice Data Science Club</title>
+    <link>https://ricedatasci.github.io/about/</link>
+    <description>Recent content in about rice datasci on Rice Data Science Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ricedatasci.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President</title>
+      <link>https://ricedatasci.github.io/about/president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/president/</guid>
+      <description>Junior at Wiess studying Statistics. In my free time I enjoy playing board games and ping pong. This summer I lived and worked in Norway!</description>
+    </item>
+    
+    <item>
+      <title>External Vice President</title>
+      <link>https://ricedatasci.github.io/about/external-vice-president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/external-vice-president/</guid>
+      <description>Junior at Wiess studying Computer Science with a minor in Math.</description>
+    </item>
+    
+    <item>
+      <title>Internal Vice President</title>
+      <link>https://ricedatasci.github.io/about/internal-vice-president/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/internal-vice-president/</guid>
+      <description>Senior at Hanszen studying Computer Science. In my free time I enjoy playing ultimate frisbee, browsing hacker news, and listening to all kinds of music.</description>
+    </item>
+    
+    <item>
+      <title>Treasurer</title>
+      <link>https://ricedatasci.github.io/about/treasurer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/treasurer/</guid>
+      <description>Sophomore at Hanszen studying CAAM and Cognitive Science. I&amp;rsquo;m a huge foodie - I love eating &amp;amp; making good food, exploring new places/traveling (Scotland this summer!), and reading books. International student from Taiwan!</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-emily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-emily/</guid>
+      <description>A junior at Will Rice studying Mathematical Economic Analysis, Statistics, and minors in Computational Finance and Evolutionary Biology.
+I have been playing ultimate for 6 years, most recently with our womxn’s ultimate team, Torque. In my free time, I enjoy knitting, watching cat videos, and playing mahjong with my fellow Will Ricers.</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-nick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-nick/</guid>
+      <description>Sophomore at McMurtry College studying Computer Science.</description>
+    </item>
+    
+    <item>
+      <title>Datathon Committee</title>
+      <link>https://ricedatasci.github.io/about/datathon-parth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ricedatasci.github.io/about/datathon-parth/</guid>
+      <description>Sophomore at McMurtry College studying Computer Science and Statistics.
+I enjoy cooking, watching The Real Bros of Simi Valley, rapping, and making chill music. While I love travelling internationally, I sometimes prefer to cruise around Washington in my old car with friends.</description>
+    </item>
+    
+  </channel>
+</rss>
